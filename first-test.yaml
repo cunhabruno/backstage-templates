@@ -17,7 +17,7 @@ metadata:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
-    jira/project-key: PT
+    jira/project-key: SCRUM
     jira/token-type: Bearer
 spec:
   type: library

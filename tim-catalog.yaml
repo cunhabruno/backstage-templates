@@ -9,7 +9,7 @@ metadata:
     github.com/project-slug: venuesh/venuesh-nextjs-blog
     backstage.io/techdocs-ref: dir:.
     venue.sh/devcontainers-enabled: "true"
-    jira/project-key: PT
+    jira/project-key: SCRUM
 spec:
   type: service
   lifecycle: dev

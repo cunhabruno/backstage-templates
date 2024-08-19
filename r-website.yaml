@@ -4,3 +4,6 @@ metadata:
   name: r-website-component
   annotations:
     github.com/project-slug: cunhabruno/raphisa-website
+spec:
+  type: service
+  lifecycle: dev

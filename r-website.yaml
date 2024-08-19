@@ -1,6 +1,6 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: R website component
+  name: r-website-component
   annotations:
     github.com/project-slug: cunhabruno/raphisa-website

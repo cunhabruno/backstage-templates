@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: artist-web
   annotations:
-    gitlab.com/project-id: '60956168'
-    gitlab.com/project-slug: 'experiments4674834/nextjs-and-react-the-complete-guide' # group_name/project_name
+    gitlab.com/project-id: '61024755'
+    gitlab.com/project-slug: 'brunocc.io/express-sample' # group_name/project_name
     #gitlab.com/instance: gitlab.internal.abcd # abcd, represents local instance used
 spec:
   type: service

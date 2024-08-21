@@ -8,3 +8,4 @@ metadata:
     #gitlab.com/instance: gitlab.internal.abcd # abcd, represents local instance used
 spec:
   type: service
+  lifecycle: production
